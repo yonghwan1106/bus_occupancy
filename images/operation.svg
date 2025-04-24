@@ -5,16 +5,16 @@
     <text x="200" y="65" text-anchor="middle" fill="white" font-size="10">AI 수요 예측</text>
     
     <rect x="50" y="130" width="80" height="40" rx="5" fill="#ff4081" />
-    <text x="90" y="155" text-anchor="middle" fill="white" font-size="12">경미한 혼잡</text>
-    <text x="90" y="170" text-anchor="middle" fill="white" font-size="10">85-100%</text>
+    <text x="90" y="150" text-anchor="middle" fill="white" font-size="12">경미한 혼잡</text>
+    <text x="90" y="165" text-anchor="middle" fill="white" font-size="10">85-100%</text>
     
     <rect x="160" y="130" width="80" height="40" rx="5" fill="#ff9800" />
-    <text x="200" y="155" text-anchor="middle" fill="white" font-size="12">중간 혼잡</text>
-    <text x="200" y="170" text-anchor="middle" fill="white" font-size="10">100-120%</text>
+    <text x="200" y="150" text-anchor="middle" fill="white" font-size="12">중간 혼잡</text>
+    <text x="200" y="165" text-anchor="middle" fill="white" font-size="10">100-120%</text>
     
     <rect x="270" y="130" width="80" height="40" rx="5" fill="#f44336" />
-    <text x="310" y="155" text-anchor="middle" fill="white" font-size="12">심각한 혼잡</text>
-    <text x="310" y="170" text-anchor="middle" fill="white" font-size="10">120% 이상</text>
+    <text x="310" y="150" text-anchor="middle" fill="white" font-size="12">심각한 혼잡</text>
+    <text x="310" y="165" text-anchor="middle" fill="white" font-size="10">120% 이상</text>
     
     <line x1="200" y1="80" x2="200" y2="100" stroke="#333" stroke-width="2" />
     <line x1="200" y1="100" x2="90" y2="100" stroke="#333" stroke-width="2" />
