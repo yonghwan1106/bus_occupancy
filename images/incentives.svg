@@ -4,7 +4,7 @@
     <text x="200" y="60" text-anchor="middle" fill="white" font-size="14">운수사업자</text>
     <text x="200" y="80" text-anchor="middle" fill="white" font-size="12">인센티브 체계</text>
     
-    <transform="translate(0,10)">
+    <g transform="translate(0,10)">
     <circle cx="100" cy="150" r="40" fill="#4caf50" />
     <text x="100" y="145" text-anchor="middle" fill="white" font-size="12">운행보조금</text>
     <text x="100" y="160" text-anchor="middle" fill="white" font-size="10">km당 100원 가산</text>
