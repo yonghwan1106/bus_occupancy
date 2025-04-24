@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <rect x="150" y="30" width="100" height="60" rx="5" fill="#0078d7" />
+    <text x="200" y="60" text-anchor="middle" fill="white" font-size="14">운수사업자</text>
+    <text x="200" y="80" text-anchor="middle" fill="white" font-size="12">인센티브 체계</text>
+    
+    <circle cx="100" cy="150" r="40" fill="#4caf50" />
+    <text x="100" y="145" text-anchor="middle" fill="white" font-size="12">운행보조금</text>
+    <text x="100" y="160" text-anchor="middle" fill="white" font-size="10">km당 100원 가산</text>
+    
+    <circle cx="200" cy="150" r="40" fill="#4caf50" />
+    <text x="200" y="145" text-anchor="middle" fill="white" font-size="12">연료비 보조</text>
+    <text x="200" y="160" text-anchor="middle" fill="white" font-size="10">실비 지원</text>
+    
+    <circle cx="300" cy="150" r="40" fill="#4caf50" />
+    <text x="300" y="145" text-anchor="middle" fill="white" font-size="12">장비 설치비</text>
+    <text x="300" y="160" text-anchor="middle" fill="white" font-size="10">80% 지원</text>
+    
+    <rect x="130" y="230" width="140" height="40" rx="5" fill="#ff4081" />
+    <text x="200" y="255" text-anchor="middle" fill="white" font-size="12">평가 가점 부여</text>
+    
+    <line x1="200" y1="90" x2="200" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="110" x2="300" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
+    
+    <line x1="100" y1="190" x2="100" y2="210" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="190" x2="200" y2="210" stroke="#333" stroke-width="2" />
+    <line x1="300" y1="190" x2="300" y2="210" stroke="#333" stroke-width="2" />
+    <line x1="100" y1="210" x2="300" y2="210" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="210" x2="200" y2="230" stroke="#333" stroke-width="2" />
+</svg>

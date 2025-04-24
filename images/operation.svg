@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <rect x="150" y="20" width="100" height="60" rx="5" fill="#0078d7" />
+    <text x="200" y="50" text-anchor="middle" fill="white" font-size="12">중앙관제시스템</text>
+    <text x="200" y="65" text-anchor="middle" fill="white" font-size="10">AI 수요 예측</text>
+    
+    <rect x="50" y="130" width="80" height="40" rx="5" fill="#ff4081" />
+    <text x="90" y="155" text-anchor="middle" fill="white" font-size="12">경미한 혼잡</text>
+    <text x="90" y="170" text-anchor="middle" fill="white" font-size="10">85-100%</text>
+    
+    <rect x="160" y="130" width="80" height="40" rx="5" fill="#ff9800" />
+    <text x="200" y="155" text-anchor="middle" fill="white" font-size="12">중간 혼잡</text>
+    <text x="200" y="170" text-anchor="middle" fill="white" font-size="10">100-120%</text>
+    
+    <rect x="270" y="130" width="80" height="40" rx="5" fill="#f44336" />
+    <text x="310" y="155" text-anchor="middle" fill="white" font-size="12">심각한 혼잡</text>
+    <text x="310" y="170" text-anchor="middle" fill="white" font-size="10">120% 이상</text>
+    
+    <line x1="200" y1="80" x2="200" y2="100" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="100" x2="90" y2="100" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="100" x2="310" y2="100" stroke="#333" stroke-width="2" />
+    <line x1="90" y1="100" x2="90" y2="130" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="100" x2="200" y2="130" stroke="#333" stroke-width="2" />
+    <line x1="310" y1="100" x2="310" y2="130" stroke="#333" stroke-width="2" />
+    
+    <rect x="50" y="220" width="80" height="40" rx="5" fill="#0078d7" />
+    <text x="90" y="240" text-anchor="middle" fill="white" font-size="12">배차간격</text>
+    <text x="90" y="255" text-anchor="middle" fill="white" font-size="10">20-30% 단축</text>
+    
+    <rect x="160" y="220" width="80" height="40" rx="5" fill="#0078d7" />
+    <text x="200" y="240" text-anchor="middle" fill="white" font-size="12">예비차량</text>
+    <text x="200" y="255" text-anchor="middle" fill="white" font-size="10">즉시 투입</text>
+    
+    <rect x="270" y="220" width="80" height="40" rx="5" fill="#0078d7" />
+    <text x="310" y="240" text-anchor="middle" fill="white" font-size="12">인근노선</text>
+    <text x="310" y="255" text-anchor="middle" fill="white" font-size="10">차량 전환</text>
+    
+    <line x1="90" y1="170" x2="90" y2="220" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="170" x2="200" y2="220" stroke="#333" stroke-width="2" />
+    <line x1="310" y1="170" x2="310" y2="220" stroke="#333" stroke-width="2" />
+</svg>
