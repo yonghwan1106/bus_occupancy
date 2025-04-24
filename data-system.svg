@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <rect x="50" y="100" width="80" height="50" rx="5" fill="#0078d7" />
+    <text x="90" y="130" text-anchor="middle" fill="white" font-size="12">버스 센서</text>
+    
+    <rect x="160" y="100" width="80" height="50" rx="5" fill="#0078d7" />
+    <text x="200" y="130" text-anchor="middle" fill="white" font-size="12">데이터 수집</text>
+    
+    <rect x="270" y="100" width="80" height="50" rx="5" fill="#0078d7" />
+    <text x="310" y="130" text-anchor="middle" fill="white" font-size="12">AI 분석</text>
+    
+    <line x1="130" y1="125" x2="160" y2="125" stroke="#333" stroke-width="2" />
+    <polygon points="158,120 168,125 158,130" fill="#333" />
+    
+    <line x1="240" y1="125" x2="270" y2="125" stroke="#333" stroke-width="2" />
+    <polygon points="268,120 278,125 268,130" fill="#333" />
+    
+    <circle cx="310" cy="50" r="30" fill="#ff4081" />
+    <text x="310" y="55" text-anchor="middle" fill="white" font-size="12">92.8%</text>
+    <text x="310" y="70" text-anchor="middle" fill="white" font-size="10">예측 정확도</text>
+    
+    <line x1="310" y1="80" x2="310" y2="100" stroke="#333" stroke-width="2" stroke-dasharray="5,5" />
+    
+    <rect x="160" y="200" width="80" height="50" rx="5" fill="#0078d7" />
+    <text x="200" y="225" text-anchor="middle" fill="white" font-size="12">실시간</text>
+    <text x="200" y="240" text-anchor="middle" fill="white" font-size="12">배차 조정</text>
+    
+    <line x1="310" y1="150" x2="310" y2="170" stroke="#333" stroke-width="2" />
+    <line x1="310" y1="170" x2="200" y2="170" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="170" x2="200" y2="200" stroke="#333" stroke-width="2" />
+    <polygon points="195,198 200,208 205,198" fill="#333" />
+</svg>
