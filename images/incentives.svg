@@ -17,12 +17,13 @@
     <text x="300" y="145" text-anchor="middle" fill="white" font-size="12">장비 설치비</text>
     <text x="300" y="160" text-anchor="middle" fill="white" font-size="10">80% 지원</text>
     </g>
+    
     <rect x="130" y="230" width="140" height="40" rx="5" fill="#ff4081" />
     <text x="200" y="255" text-anchor="middle" fill="white" font-size="12">평가 가점 부여</text>
     
-    <line x1="200" y1="90" x2="200" y2="110" stroke="#333" stroke-width="2" />
-    <line x1="200" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
-    <line x1="200" y1="110" x2="300" y2="110" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="90" x2="200" y2="120" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="110" x2="100" y2="120" stroke="#333" stroke-width="2" />
+    <line x1="200" y1="110" x2="300" y2="120" stroke="#333" stroke-width="2" />
     <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
     <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
     <line x1="100" y1="110" x2="100" y2="110" stroke="#333" stroke-width="2" />
